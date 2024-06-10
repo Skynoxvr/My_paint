@@ -1,0 +1,7 @@
+Left Click - draw
+Arrow Up - increase the brush size
+Arrow Down - decrease the brush size
+P - select the hovered color (pipette)
+Space - fill the hovered area with the selected color
+Ctrl + S - save the image
+Ctrl + O - open the image
